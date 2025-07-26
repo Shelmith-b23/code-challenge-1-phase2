@@ -1,0 +1,25 @@
+{
+  "plants": [
+    {
+      "id": "3",
+      "name": "Pilea peperomioides",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NMhj1H_HdSe4KCFYVdc_qJ6wJvz0OzekGA&s",
+      "price": 5.99,
+      "soldOut": true
+    },
+    {
+      "id": "4",
+      "name": "Pothos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjjqVFX8bK45rxw3EFiCdvJDuQGMpmSftnA&s",
+      "price": 12.11,
+      "soldOut": false
+    },
+    {
+      "id": "8560",
+      "name": "Perennials",
+      "image": "https://cdn.fordhamram.com/wp-content/uploads/perennial-flowers-and-plants-1674072475.jpeg",
+      "price": "500",
+      "soldOut": false
+    }
+  ]
+}
